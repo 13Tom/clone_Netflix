@@ -30,6 +30,7 @@ header .logo {
 	font-family: 'Arial Black', Times;
 	font-size: 40px;
 	margin-left: 5px;
+	
 }
 
 header nav a {
@@ -47,7 +48,7 @@ header nav a:hover {
 .filme-principal {
 	font-size: 20px;
 	background: linear-gradient( rgba(0,0,0,.50), rgba(0,0,0,.50)100% ), url('../img/fundo-destaque-principal.jpg');
-	height: 400px;
+	height: 700px;
 	background-size: cover;     /* A imagem de background vai se ajustar ao tamanho da área */
 	display: flex;
 	flex-direction: column;
